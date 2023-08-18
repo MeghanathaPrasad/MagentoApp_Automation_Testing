@@ -1,0 +1,55 @@
+1690960752209	geckodriver	INFO	Listening on 127.0.0.1:52498
+1690960755176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MDURGA~1\\AppData\\Local\\Temp\\1\\rust_mozprofileQqt1FY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690960758520	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690960758877	Marionette	INFO	Listening on port 52513
+Read port: 52513
+WebDriver BiDi listening on ws://127.0.0.1:52499
+Read port: 52513
+1690960761863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52499/devtools/browser/05028a35-1fb3-482b-8961-ddc904bf05b1
+JavaScript warning: moz-extension://5d73aa1b-29ee-4193-bc7c-ff829a12e12d/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript warning: moz-extension://5d73aa1b-29ee-4193-bc7c-ff829a12e12d/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1690960781753	Marionette	INFO	Stopped listening on port 52513
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1690960787885	geckodriver	INFO	Listening on 127.0.0.1:52575
+1690960790913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MDURGA~1\\AppData\\Local\\Temp\\1\\rust_mozprofileICgGiw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690960791815	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690960791884	Marionette	INFO	Listening on port 52586
+Read port: 52586
+WebDriver BiDi listening on ws://127.0.0.1:52576
+1690960792843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52576/devtools/browser/df21b3ec-ce99-418c-98f3-d4dfe2facba9
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: moz-extension://aee7ede8-bade-45f9-976c-48e08e2df907/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+Extension error: TypeError: supportedFeatures is undefined moz-extension://aee7ede8-bade-45f9-976c-48e08e2df907/mcafee_wa_contentplg.js 2704
+[[Exception stack
+_main/<@moz-extension://aee7ede8-bade-45f9-976c-48e08e2df907/mcafee_wa_contentplg.js:2704:17
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.sys.mjs:915:20
+withLastError@resource://gre/modules/ExtensionCommon.sys.mjs:834:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.sys.mjs:903:16
+]]
+Extension error: ReferenceError: ret is not defined moz-extension://aee7ede8-bade-45f9-976c-48e08e2df907/mcafee_wa_bkground.js 2879
+[[Exception stack
+mcafee_wa_legacynativemsgdispatcher.prototype.onBeforeNavigate@moz-extension://aee7ede8-bade-45f9-976c-48e08e2df907/mcafee_wa_bkground.js:2879:66
+onBeforeNavigate@moz-extension://aee7ede8-bade-45f9-976c-48e08e2df907/mcafee_wa_bkground.js:1211:51
+mcafee_wa_background.prototype.processActiveTab/<@moz-extension://aee7ede8-bade-45f9-976c-48e08e2df907/mcafee_wa_bkground.js:3008:27
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+wrapPromise/<@resource://gre/modules/ExtensionCommon.sys.mjs:895:18
+]]
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://osc-ultimate-demo.mageplaza.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://osc-ultimate-demo.mageplaza.com."
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+1690960812690	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1690961193155	Marionette	INFO	Stopped listening on port 52586
+Dynamically enable window occlusion 1
