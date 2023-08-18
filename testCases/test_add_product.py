@@ -49,7 +49,7 @@ class Test_003_Add_Product:
         # self.AP.clickOnCross2()
         # self.AP.clickOnEnableProduct()
         self.AP.setAttributeSet()
-        self.AP.setProductName("Bag_latest")
+        self.AP.setProductName("Latest_bag")
         self.AP.setPrice(200)
         self.AP.setProductWeight(1)
         self.AP.scorllUp()

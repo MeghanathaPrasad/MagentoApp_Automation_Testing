@@ -38,10 +38,10 @@ class Test_002_Create_new_user:
         self.driver.get("https://osc-ultimate-demo.mageplaza.com/")
         self.driver.maximize_window()
         self.CN.clickOnCreate_new_user()
-        self.CN.setUserFname("Ramesh3")
-        self.CN.setUserLname("Srinivas3")
-        self.CN.setEmail("Ramesh3@gmail.com")
-        self.CN.setDob("01/01/2003")
+        self.CN.setUserFname("Ramesh4")
+        self.CN.setUserLname("Srinivas4")
+        self.CN.setEmail("Ramesh4@gmail.com")
+        self.CN.setDob("01/01/2004")
         self.CN.setPass("Ramesh123@")
         self.CN.setConfpass("Ramesh123@")
         self.CN.clickOnRegister()
@@ -52,7 +52,7 @@ class Test_002_Create_new_user:
 
         try:
             registered_name = self.driver.find_element(By.XPATH, "//ul/li/span[@class='logged-in']").text
-            if actual_title == "Home Page" and registered_name == "Welcome, Ramesh3 Srinivas3!":
+            if actual_title == "Home Page" and registered_name == "Welcome, Ramesh4 Srinivas4!":
                 self.logger.info("******** new user added successfully *********")
                 self.logger.info("****** Passed ******")
                 assert True

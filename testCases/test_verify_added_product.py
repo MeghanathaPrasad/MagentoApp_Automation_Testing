@@ -25,7 +25,7 @@ class Test_004_Verify_Added_Product:
         self.sp = VerifyAddedProduct(self.driver)
         time.sleep(5)
         self.sp.clickOnCross()
-        self.sp.setSearchtxt("Bag_latest")
+        self.sp.setSearchtxt("Latest_bag")
         time.sleep(5)
         self.sp.clickOnSearch()
         time.sleep(5)
@@ -40,7 +40,7 @@ class Test_004_Verify_Added_Product:
 
         try:
             FoundResults = self.sp.getSearchResults()
-            if FoundResults == "Bag_latest":
+            if FoundResults == "Latest_bag":
                 self.logger.info("********* product added verifyed successfully ******")
                 assert True
             else:
