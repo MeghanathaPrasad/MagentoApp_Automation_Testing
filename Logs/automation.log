@@ -657,3 +657,82 @@
 08/18/2023 12:58:53 PM: INFO: ************  Logined  successfully   *******
 08/18/2023 01:00:34 PM: INFO: ******** Add New Product successfully *******
 08/18/2023 01:01:09 PM: INFO: ********* product added verifyed successfully ******
+08/18/2023 04:36:14 PM: INFO: ************ Test_001_Login *******
+08/18/2023 04:36:14 PM: INFO: ************ Verifying Home page *******
+08/18/2023 04:36:23 PM: INFO: ************ Home page title test is passed *******
+08/18/2023 04:36:28 PM: INFO: ************ Verifying Login test *******
+08/18/2023 04:36:50 PM: INFO: ********* verifying  test_Create_new_user *********** 
+08/18/2023 04:37:03 PM: INFO: ******** new user added successfully *********
+08/18/2023 04:37:03 PM: INFO: ****** Passed ******
+08/18/2023 04:37:10 PM: INFO: ********** Test_003_Add_Product *********
+08/18/2023 04:37:10 PM: INFO: ********* Verifying  add product *******
+08/18/2023 04:37:19 PM: INFO: ************  Logined  successfully   *******
+08/18/2023 04:39:34 PM: INFO: ********* verifying added product is failed ********
+08/18/2023 04:41:25 PM: INFO: ********** Test_003_Add_Product *********
+08/18/2023 04:41:25 PM: INFO: ********* Verifying  add product *******
+08/18/2023 04:41:33 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 09:29:31 PM: INFO: ************ Test_001_Login *******
+09/20/2023 09:29:31 PM: INFO: ************ Verifying Home page *******
+09/20/2023 09:29:39 PM: INFO: ************ Home page title test is passed *******
+09/20/2023 09:29:42 PM: INFO: ************ Verifying Login test *******
+09/20/2023 09:30:08 PM: INFO: ******** Login test is passed ********
+09/20/2023 09:41:46 PM: INFO: ********* verifying  test_Create_new_user *********** 
+09/20/2023 09:42:18 PM: INFO: ******** new user added successfully *********
+09/20/2023 09:42:18 PM: INFO: ****** Passed ******
+09/20/2023 09:49:48 PM: INFO: ********* verifying  test_Create_new_user *********** 
+09/20/2023 09:51:21 PM: INFO: ********* verifying new user  is failed ********
+09/20/2023 09:56:10 PM: INFO: ********* verifying added product is failed ********
+09/20/2023 10:11:06 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 10:11:06 PM: INFO: ********* Verifying  add product *******
+09/20/2023 10:11:19 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 10:11:54 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 10:11:54 PM: INFO: ********* Verifying  add product *******
+09/20/2023 10:12:07 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 10:46:29 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 10:46:29 PM: INFO: ********* Verifying  add product *******
+09/20/2023 10:46:40 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 10:55:14 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 10:55:14 PM: INFO: ********* Verifying  add product *******
+09/20/2023 10:55:23 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 10:58:14 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 10:58:14 PM: INFO: ********* Verifying  add product *******
+09/20/2023 10:58:30 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 11:00:25 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 11:00:25 PM: INFO: ********* Verifying  add product *******
+09/20/2023 11:01:06 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 11:01:06 PM: INFO: ********* Verifying  add product *******
+09/20/2023 11:01:28 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 11:03:16 PM: INFO: ******** Add New Product successfully *******
+09/20/2023 11:05:08 PM: INFO: ********* product added verifyed successfully ******
+09/20/2023 11:07:46 PM: INFO: ************ Test_001_Login *******
+09/20/2023 11:07:46 PM: INFO: ************ Verifying Home page *******
+09/20/2023 11:07:52 PM: INFO: ************ Home page title test is passed *******
+09/20/2023 11:07:58 PM: INFO: ************ Verifying Login test *******
+09/20/2023 11:08:23 PM: INFO: ********* verifying  test_Create_new_user *********** 
+09/20/2023 11:08:57 PM: INFO: ********* verifying new user  is failed ********
+09/20/2023 11:09:05 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 11:09:05 PM: INFO: ********* Verifying  add product *******
+09/20/2023 11:09:23 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 11:11:31 PM: INFO: ********* verifying added product is failed ********
+09/20/2023 11:15:42 PM: INFO: ************ Test_001_Login *******
+09/20/2023 11:15:42 PM: INFO: ************ Verifying Home page *******
+09/20/2023 11:15:56 PM: INFO: ************ Home page title test is passed *******
+09/20/2023 11:16:02 PM: INFO: ************ Verifying Login test *******
+09/20/2023 11:16:27 PM: INFO: ********* verifying  test_Create_new_user *********** 
+09/20/2023 11:17:05 PM: INFO: ********* verifying new user  is failed ********
+09/20/2023 11:17:13 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 11:17:13 PM: INFO: ********* Verifying  add product *******
+09/20/2023 11:17:25 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 11:18:35 PM: INFO: ********* verifying added product is failed ********
+09/20/2023 11:23:44 PM: INFO: ********* product added verifyed successfully ******
+09/20/2023 11:24:59 PM: INFO: ************ Test_001_Login *******
+09/20/2023 11:24:59 PM: INFO: ************ Verifying Home page *******
+09/20/2023 11:25:04 PM: INFO: ************ Home page title test is passed *******
+09/20/2023 11:25:10 PM: INFO: ************ Verifying Login test *******
+09/20/2023 11:25:25 PM: INFO: ******** Login test is passed ********
+09/20/2023 11:25:32 PM: INFO: ********* verifying  test_Create_new_user *********** 
+09/20/2023 11:26:10 PM: INFO: ********* verifying new user  is failed ********
+09/20/2023 11:26:17 PM: INFO: ********** Test_003_Add_Product *********
+09/20/2023 11:26:17 PM: INFO: ********* Verifying  add product *******
+09/20/2023 11:26:27 PM: INFO: ************  Logined  successfully   *******
+09/20/2023 11:27:59 PM: INFO: ********* product added verifyed successfully ******

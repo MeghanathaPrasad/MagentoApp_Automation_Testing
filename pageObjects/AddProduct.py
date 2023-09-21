@@ -26,9 +26,11 @@ class AddProduct:
     btnClickOnDone_xpath = "//button[@class='action-default']//span[contains(text(),'Done')]"
     txtSet_product_new_from_date_xpath = "//div[contains(@data-index,'news_from_date')]//button[contains(@type,'button')]"
     btnGo_today_xpath = "//button[normalize-space()='Go Today']"
+
     btnClose_xpath = "//button[contains(text(),'Close')]"
     txtSet_product_new_to_date_xpath = "//div[contains(@data-index,'news_to_date')]//button[contains(@type,'button')]"
-    btnClickOn31_xpath = "//a[normalize-space()='31']"
+    btnClickOn31_xpath = "//button[normalize-space()='Go Today']"
+    btnClose2_xpath ="//button[contains(text(),'Close')]"
     dpdCuntry_of_manufacturing_xpath = "//div/select[@name='product[country_of_manufacture]']"
 
     btnSelect_bag_activity_xpath = "//option[normalize-space()='Outdoor']"
@@ -120,6 +122,7 @@ class AddProduct:
     def clickOnProductAsNewTo(self):
         self.driver.find_element(By.XPATH, self.txtSet_product_new_to_date_xpath).click()
         self.driver.find_element(By.XPATH, self.btnClickOn31_xpath).click()
+        self.driver.find_element(By.XPATH, self.btnClose2_xpath).click()
 
 
     def setManufaturing(self):
